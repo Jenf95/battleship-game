@@ -1,1 +1,3 @@
 # battleship-game
+
+import random
